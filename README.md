@@ -63,8 +63,7 @@ Welcome to the **Document Converter Website**! This open-source project is desig
 
 ## How to Get Started
 
-**Loading...
-**
+Loading...
 ---
 
 ## Contribution Guidelines
